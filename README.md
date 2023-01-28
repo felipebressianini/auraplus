@@ -1,2 +1,2 @@
 # auraplus
-HTML e CSS. Curso básico do Alura.
+HTML and CSS Alura's course for beginners.
